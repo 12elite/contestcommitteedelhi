@@ -1,0 +1,27 @@
+body{
+     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url(../images/background.png);
+     background-position: center;
+     background-attachment: fixed;
+     cursor: pointer;
+}
+
+body h1{
+     font-family: sans-serif;
+     font-size: 75px;
+     color: white;
+     text-align: center;
+}
+
+body p{
+     font-family: sans-serif;
+     font-size: 50px;
+     color: white;
+     text-align: center;
+}
+
+body p a{
+     font-family: sans-serif;
+     font-size: 50px;
+     color: white;
+     text-align: center;     
+}
